@@ -1,6 +1,4 @@
-# -Advanced-Yield-Farming-Strategies-Analysis
-
-# Yield Farming Strategies Analysis
+# Advanced-Yield-Farming-Strategies-Analysis
 
 ## Introduction
 
